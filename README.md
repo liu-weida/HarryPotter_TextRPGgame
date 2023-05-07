@@ -1,7 +1,9 @@
-# HarryPotter_TextRPGgame_Graphics
+This is an RPG based on Java.
 
-This is the GUI version of the same account project HarryPotter_TextRPGgame , developed using JavaFX .
+In the game, you will play as a student entering Hogwarts, learning magic, and fighting enemies.
 
-This program is completely free and completely open.
+After you pass seven levels and defeat Voldemort, you will officially graduate and become a real wizard.
 
-(Just found some problems with the project, now deleted, modified and released again)
+Completely open and free to use. (You can even use it without mentioning my name.)
+
+If you have any questions about this project, please feel free to discuss them with me. My contact information is liuweida1010@gmail.com.
